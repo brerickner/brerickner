@@ -20,22 +20,11 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Chicago
-          plugin_contributors: yes
-          plugin_contributors_categories: {
-  "📚 Documentation": ["README.md", "docs/**"],
-  "💻 Code": ["source/**", "src/**"],
-  "#️⃣ Others": ["*"]
-}
-
-          plugin_contributors_head: master
-          plugin_contributors_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
-          plugin_contributors_sections: contributors
-          plugin_gists: yes
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_colors: github
-          plugin_languages_limit: 10
+          plugin_languages_limit: 8
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
