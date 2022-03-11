@@ -10,7 +10,6 @@
 - 📫 **How to reach me:**  
             [LinkedIn](https://www.linkedin.com/in/brerickner)  
             [Twitter](https://twitter.com/brerickner)  
-            [Email](breannarickner@holbertonschool.com)  
             [Medium](https://medium.com/@brerickner)
 - 😄 **Pronouns:** she/her
 - ⚡ **Fun fact:** The most successful pirate was a woman [Ching Shih](https://historyofyesterday.com/ching-shih-a-prostitute-who-became-historys-deadliest-pirate-f596f7fcff23).
