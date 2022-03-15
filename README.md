@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ##  Play around with Web stuff
 =======
 ### Hello World, it's Bre! 👋
@@ -17,4 +16,3 @@
             [Medium](https://medium.com/@brerickner)
 - 😄 **Pronouns:** she/her
 - ⚡ **Fun fact:** The most successful pirate was a woman [Ching Shih](https://historyofyesterday.com/ching-shih-a-prostitute-who-became-historys-deadliest-pirate-f596f7fcff23).
->>>>>>> b612acba199e07ad90b152c375ba986b98e0d591
