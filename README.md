@@ -4,6 +4,7 @@
 **brerickner/brerickner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 - :star2: I am a full stack software engineer!
 - 🔭 I’m currently specializing in building Augmented and Virtual Reality applications using Unity3D Engine.
+- :fist_raised: 3-day Portfolio Website Challenge -> [right hurr!](https://brerickner.github.io/web_play/)
 - 🌱 I recently released my first VR Application, [BreR Escape Room](https://youtu.be/7dvtWqieUJs), a virtual reality 'Escape Room' developed for the Oculus Quest headset!
 - 👯 I’m looking to collaborate on any creative ideas you got
 - 💬 Ask me about my love for TDD.
