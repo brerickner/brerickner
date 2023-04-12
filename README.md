@@ -5,7 +5,7 @@
 - :star2: I am a full stack software engineer!
 - 🔭 I’m currently working full-time developing quality software.
 - ✊ Bre 3-day Challenge: Most Recent -> [Bre's Portfolio Website](https://brerickner.github.io/brerickner/)!
-- 🌱 I recently released my first VR Application, [BreR Escape Room](https://youtu.be/7dvtWqieUJs), a virtual reality 'Escape Room' developed for the Oculus Quest headset!
+- 🌱 I recently released my first VR Application, [BreR Escape Room](https://youtu.be/KqYGAKmgC3g), a virtual reality 'Escape Room' developed for the Oculus Quest headset!
 - 👯 I’m looking to collaborate on any creative ideas you got
 - 💬 Ask me about my love for TDD.
 - 📫 **How to reach me:**  
