@@ -86,14 +86,14 @@
     speed: 600,
     loop: true,
     autoplay: {
-      delay: 15000,
+      delay: 10000,
       disableOnInteraction: true
     },
     slidesPerView: 'auto',
     pagination: {
       el: '.swiper-pagination',
       type: 'bullets',
-      clickable: false
+      clickable: true
     }
   });
 
