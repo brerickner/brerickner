@@ -2,6 +2,7 @@
 * Template Name: MyPortfolio - v4.7.0
 * Template URL: https://bootstrapmade.com/myportfolio-bootstrap-portfolio-website-template/
 * Author: BootstrapMade.com
+* Modified by: Bre Rickner
 * License: https://bootstrapmade.com/license/
 */
 
@@ -144,10 +145,29 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   width: 120px;
   margin: 0 auto 30px auto;
 }
-.testimonial-wrap .testimonial blockquote p {
-  font-size: calc(.25rem + .1vw);
-  width: 100%;
+
+.testimonial blockquote p {
+  /* clamp(min, preferred, max) keeps it fluid but sane */
+  font-size: clamp(1rem, 0.9rem + 1vw, 1.25rem);
+  line-height: 1.5;
+  margin: 0 0 1rem;  /* gives the “quoted” text breathing space */
 }
+
+/* 2. Name line (— Valerie …) a touch smaller so the quote stands out */
+.testimonial p:last-of-type {
+  font-size: 0.9rem;
+  margin: 0;
+  opacity: 0.8;      /* looks classy */
+}
+
+/* 3. Optional: tighten up images on really small screens */
+@media (max-width: 480px) {
+  .testimonial img {
+    width: 64px;      /* stop the avatar from hogging the row */
+    height: 64px;
+  }
+}
+
 
 .h3 {
   font-size: 20px;
