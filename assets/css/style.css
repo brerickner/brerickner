@@ -159,13 +159,6 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   opacity: 0.8;   
 }
 
-@media (max-width: 480px) {
-  .testimonial img {
-    width: 64px;      /* stop the avatar from hogging the row */
-    height: 64px;
-  }
-}
-
 
 .h3 {
   font-size: 20px;
