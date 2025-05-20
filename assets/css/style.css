@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 
 .testimonial blockquote p {
   /* clamp(min, preferred, max) keeps it fluid but sane */
-  font-size: clamp(1rem, 0.9rem + 1vw, 1.25rem);
+  font-size: clamp(1rem, 0.9rem + 1vw, 1.25rem) !important;
   line-height: 1.5;
   margin: 0 0 1rem; 
 }
