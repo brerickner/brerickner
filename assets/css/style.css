@@ -150,17 +150,15 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   /* clamp(min, preferred, max) keeps it fluid but sane */
   font-size: clamp(1rem, 0.9rem + 1vw, 1.25rem);
   line-height: 1.5;
-  margin: 0 0 1rem;  /* gives the “quoted” text breathing space */
+  margin: 0 0 1rem; 
 }
 
-/* 2. Name line (— Valerie …) a touch smaller so the quote stands out */
 .testimonial p:last-of-type {
   font-size: 0.9rem;
   margin: 0;
-  opacity: 0.8;      /* looks classy */
+  opacity: 0.8;   
 }
 
-/* 3. Optional: tighten up images on really small screens */
 @media (max-width: 480px) {
   .testimonial img {
     width: 64px;      /* stop the avatar from hogging the row */
